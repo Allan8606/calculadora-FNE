@@ -136,3 +136,8 @@ p {
 .totalPagar {
     padding-top: 5px;
 }
+
+.boxParcelas {
+    display: flex;
+    justify-content: space-evenly;
+}
