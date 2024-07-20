@@ -124,6 +124,14 @@ btn.addEventListener("click", function (e) {
             parcela2.style.display = "block";
             parcela3.style.display = "block";
             parcela4.style.display = "block";
+            parcela5.style.display = "none";
+            parcela6.style.display = "none";
+            parcela7.style.display = "none";
+            parcela8.style.display = "none";
+            parcela9.style.display = "none";
+            parcela10.style.display = "none";
+            parcela11.style.display = "none";
+            parcela12.style.display = "none";
 
             const soma =
                 calculoParcela1 +
@@ -157,6 +165,13 @@ btn.addEventListener("click", function (e) {
             parcela3.style.display = "block";
             parcela4.style.display = "block";
             parcela5.style.display = "block";
+            parcela6.style.display = "none";
+            parcela7.style.display = "none";
+            parcela8.style.display = "none";
+            parcela9.style.display = "none";
+            parcela10.style.display = "none";
+            parcela11.style.display = "none";
+            parcela12.style.display = "none";
 
             const soma5 =
                 calculoParcela1 +
@@ -193,6 +208,12 @@ btn.addEventListener("click", function (e) {
             parcela4.style.display = "block";
             parcela5.style.display = "block";
             parcela6.style.display = "block";
+            parcela7.style.display = "none";
+            parcela8.style.display = "none";
+            parcela9.style.display = "none";
+            parcela10.style.display = "none";
+            parcela11.style.display = "none";
+            parcela12.style.display = "none";
 
             const soma6 =
                 calculoParcela1 +
@@ -233,6 +254,11 @@ btn.addEventListener("click", function (e) {
             parcela5.style.display = "block";
             parcela6.style.display = "block";
             parcela7.style.display = "block";
+            parcela8.style.display = "none";
+            parcela9.style.display = "none";
+            parcela10.style.display = "none";
+            parcela11.style.display = "none";
+            parcela12.style.display = "none";
 
             const soma7 =
                 calculoParcela1 +
@@ -277,6 +303,10 @@ btn.addEventListener("click", function (e) {
             parcela6.style.display = "block";
             parcela7.style.display = "block";
             parcela8.style.display = "block";
+            parcela9.style.display = "none";
+            parcela10.style.display = "none";
+            parcela11.style.display = "none";
+            parcela12.style.display = "none";
 
             const soma8 =
                 calculoParcela1 +
@@ -325,6 +355,9 @@ btn.addEventListener("click", function (e) {
             parcela7.style.display = "block";
             parcela8.style.display = "block";
             parcela9.style.display = "block";
+            parcela10.style.display = "none";
+            parcela11.style.display = "none";
+            parcela12.style.display = "none";
 
             const soma9 =
                 calculoParcela1 +
@@ -377,6 +410,8 @@ btn.addEventListener("click", function (e) {
             parcela8.style.display = "block";
             parcela9.style.display = "block";
             parcela10.style.display = "block";
+            parcela11.style.display = "none";
+            parcela12.style.display = "none";
 
             const soma10 =
                 calculoParcela1 +
@@ -433,6 +468,7 @@ btn.addEventListener("click", function (e) {
             parcela9.style.display = "block";
             parcela10.style.display = "block";
             parcela11.style.display = "block";
+            parcela12.style.display = "none";
 
             const soma11 =
                 calculoParcela1 +
